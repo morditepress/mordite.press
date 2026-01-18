@@ -17,3 +17,5 @@ targetKeyword: astro blog quick start
 draft: false
 ---
 I'm so cool.
+
+yep
